@@ -32,7 +32,7 @@ This repository contains the code and resources for fine-tuning the Qwen2-0.5B-I
 
 ### Prerequisites
 *   Google Colab account (for running the Jupyter notebook).
-*   Basic understanding of Python and machine learning concepts.
+*   Python and Machine learning concepts.
 
 ### Installation
 All necessary Python packages can be installed by running the first cell of the provided Colab notebook:
