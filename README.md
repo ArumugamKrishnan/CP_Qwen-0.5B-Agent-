@@ -42,7 +42,7 @@ All necessary Python packages can be installed by running the first cell of the 
 ```
 
 ### Running the Notebook
-1.  Open the `fine_tuning_qwen2_dpo.ipynb` notebook in Google Colab (this notebook contains all the steps).
+1.  Open the `Capstone_Project_Qwen_0_5B_Agent.ipynb` notebook in Google Colab (this notebook contains all the steps).
 2.  Go to `Runtime` -> `Run all` to execute all cells sequentially.
 3.  Alternatively, run cells individually to follow the step-by-step process of model loading, data preparation, training, and evaluation.
 
